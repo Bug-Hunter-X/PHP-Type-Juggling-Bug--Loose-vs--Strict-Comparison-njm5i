@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP bug caused by type juggling. The `bug.php` file contains a function that uses loose comparison (`==`), which can lead to incorrect results when comparing values of different types. The `bugSolution.php` file shows the corrected version using strict comparison (`===`).
